@@ -62,4 +62,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "hotwire-spark", "~> 0.1.10", :group => :development
+gem "hotwire-spark", "~> 0.1.12", :group => :development
